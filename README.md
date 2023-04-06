@@ -21,7 +21,7 @@ To generate permutations of an array, call the permutations() function on the ar
 
 ## Method 1
 
-The [first method](PermutationsSourceCode/method1.swift) uses a recursive algorithm to generate all permutations of the elements in the array. It splits the array into its first element and the remaining elements, and recursively generates permutations of the remaining elements. For each permutation, it inserts the first element in all possible positions and appends the result to the final array.
+The [First Method](PermutationsSourceCode/method1.swift) uses a recursive algorithm to generate all permutations of the elements in the array. It splits the array into its first element and the remaining elements, and recursively generates permutations of the remaining elements. For each permutation, it inserts the first element in all possible positions and appends the result to the final array.
 
 ```swift
 extension Array {
@@ -38,7 +38,7 @@ extension Array {
 
 ## Method 2
 
-The [second method](PermutationsSourceCode/method2.swift) also generates all permutations of the elements in the array, but uses a slightly different approach. It uses a recursive algorithm to remove one element from the array at a time, generates permutations of the remaining elements, and then inserts the removed element at the beginning of each permutation.
+The [Second Method](PermutationsSourceCode/method2.swift) also generates all permutations of the elements in the array, but uses a slightly different approach. It uses a recursive algorithm to remove one element from the array at a time, generates permutations of the remaining elements, and then inserts the removed element at the beginning of each permutation.
 
 ```swift
 extension Array {
