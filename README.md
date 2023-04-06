@@ -73,4 +73,4 @@ Feel free to share your ideas or any other problems. Pull requests are welcomed.
 
 ## License
 
-`Swift-Array-Permutations` is released under an MIT license. See [LICENSE](LICENSE) for more information.
+`Swift Array Permutations` is released under an MIT license. See [LICENSE](LICENSE) for more information.
