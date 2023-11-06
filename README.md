@@ -67,10 +67,6 @@ Both methods generate all possible permutations of the elements in the array. Ho
 
 Feel free to share your ideas or any other problems. Pull requests are welcomed.
 
-## Author
-
-- [Mehdi Karami](https://www.github.com/nsswifter)
-
 ## License
 
 `Swift Array Permutations` is released under an MIT license. See [LICENSE](LICENSE) for more information.
