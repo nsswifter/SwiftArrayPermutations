@@ -69,7 +69,7 @@ Feel free to share your ideas or any other problems. Pull requests are welcomed.
 
 ## Author
 
-- [Mehdi Karami](https://www.github.com/mehdi2003karami)
+- [Mehdi Karami](https://www.github.com/nsswifter)
 
 ## License
 
