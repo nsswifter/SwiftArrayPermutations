@@ -10,7 +10,7 @@ These two code snippets provide additional functionality to the Array type for g
 - [License](#license)
 
 ## Usage
-To generate permutations of an array, call the permutations() function on the array.
+To generate permutations of an array, call the `permutations()` function on the array.
 ```swift 
 > let myArray = [1, 2, 3]
 > let permutations = myArray.permutations()
@@ -21,7 +21,7 @@ To generate permutations of an array, call the permutations() function on the ar
 
 ## Method 1
 
-The [First Method](PermutationsSourceCode/method1.swift) uses a recursive algorithm to generate all permutations of the elements in the array. It splits the array into its first element and the remaining elements, and recursively generates permutations of the remaining elements. For each permutation, it inserts the first element in all possible positions and appends the result to the final array.
+The [First Method](PermutationsSourceCode/method1.swift) uses a recursive algorithm to generate all permutations of the elements in the array. It splits the array into its first element and the remaining elements and recursively generates permutations of the remaining elements. For each permutation, it inserts the first element in all possible positions and appends the result to the final array.
 
 ```swift
 extension Array {
